@@ -1,0 +1,28 @@
+.button{
+height: 100px;
+width: 50px;
+border: solid 1px;
+}
+#gray{
+
+background-color:  rgb(219, 201, 201);
+
+}
+#White{
+background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#black{
+    background-color: rgb(88, 37, 88);
+}
